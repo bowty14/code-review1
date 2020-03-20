@@ -1,4 +1,15 @@
  .header {
-   color: red;
+   color:black;
    margin-left: 40%;
+ }
+
+ #emily {
+   width: 60%;
+   margin-left: 25%;
+   border: solid;
+   border-color: black;
+ }
+
+ body {
+   background-color: lightslategray;
  }
