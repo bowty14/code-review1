@@ -37,6 +37,10 @@
     font-family: sans-serif;
  }
 
+ .front{
+   color: slategray;
+ }
+
  .container {
    margin-left: 28%;
    font-family: 'Times New Roman', Times, serif;
