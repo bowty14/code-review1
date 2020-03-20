@@ -10,7 +10,7 @@
 
  #emily {
    width: 60%;
-   margin-left: 20%;
+   margin-left: 23%;
    border: solid;
    padding: 1px;
    border-color: black;
@@ -70,6 +70,27 @@
     margin-left: 13%;
  }
 
+ .port{
+   color: Black;
+   text-align: center;
+ }
+
+ .projects {
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+ }
+
+ .vaca {
+   text-align: center;
+ }
+
+ .animal {
+   text-align: center;
+ }
+
+ .island {
+    text-align: center;
+ }
  
 
  @media screen and (max-width:480px) and (min-width:300px) {
