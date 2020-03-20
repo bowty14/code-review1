@@ -3,6 +3,11 @@
    margin-left: 40%;
  }
 
+ .tlt {
+   font-family: monospace;
+   margin-left: 41%;
+ }
+
  #emily {
    width: 60%;
    margin-left: 25%;
@@ -13,3 +18,16 @@
  body {
    background-color: lightslategray;
  }
+
+ @media screen and (max-width:480px) and (min-width:300px) {
+   body {
+      background-color: cadetblue;
+   }
+ }
+
+ @media screen and (max-width:1000px) and (min-width:700px) {
+   body {
+     background-color: #CCFFFF; 
+   }
+ }
+
