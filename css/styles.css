@@ -24,28 +24,53 @@
  .me {
    color: red;
    margin-left: 40%;
+   font-family: sans-serif;
+ }
+
+ #photo {
+   width: 20%;
+   float: left;
  }
 
  .intro{
     margin-left: 31%;
- }
-
- #ED {
-   margin-left: 42%;
- }
-
- #job {
-   margin-left: 12%;
+    font-family: sans-serif;
  }
 
  .container {
    margin-left: 28%;
+   font-family: 'Times New Roman', Times, serif;
  }
 
- #me {
-   width: 20%;
-   float: left;
+ #ED {
+   margin-left: 15%;
+   font-family: sans-serif;
  }
+
+ #job {
+   margin-left: 13%;
+   font-family: sans-serif;
+ }
+
+ #why {
+   margin-left: 10%;
+   font-family: sans-serif;
+ }
+
+ .why {
+   margin-left: 2%;
+ }
+
+ #interest {
+    margin-left: 11%;
+    font-family: sans-serif;
+ }
+
+ .interest {
+    margin-left: 13%;
+ }
+
+ 
 
  @media screen and (max-width:480px) and (min-width:300px) {
    body {
