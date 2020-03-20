@@ -19,6 +19,20 @@
    background-color: lightslategray;
  }
 
+ .me {
+   color: red;
+   margin-left: 40%;
+ }
+
+ #me {
+   width: 20%;
+   height: 40%;
+ }
+
+ #about-me { 
+   background-color: seashell;
+ }
+
  @media screen and (max-width:480px) and (min-width:300px) {
    body {
       background-color: cadetblue;
