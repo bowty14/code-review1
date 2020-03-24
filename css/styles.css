@@ -83,11 +83,12 @@
 
  .projects {
    text-align: center;
-   font-family: 'Times New Roman', Times, serif;
+   font-family: arial;
  }
 
  .vaca {
    text-align: center;
+   color: black;
  }
 
  .animal {
@@ -103,3 +104,14 @@
  }
 
  
+a {
+  color: black;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: green;
+}
