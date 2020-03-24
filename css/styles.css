@@ -17,8 +17,9 @@
    
  }
 
- body {
-   background-color: seashell;
+ #index {
+   background-image: url(https://bit.ly/2WFRDP4);
+   background-repeat: no-repeat;
  }
 
  .me {
@@ -100,19 +101,4 @@
    text-align: center;
  }
 
- @media screen and (min-width: 1281px) {
-
- }
-
- @media screen and (max-width:480px) and (min-width:300px) {
-   body {
-      background-color: cadetblue;
-   }
- }
-
- @media screen and (max-width:1000px) and (min-width:700px) {
-   body {
-     background-color: #CCFFFF; 
-   }
- }
-
+ 
