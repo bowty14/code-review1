@@ -18,8 +18,9 @@ _{At this time I have noticed no bugs to be present in the code. }_
 
 ## Support and contact details
 
-_{If you look into the code and come across a bug I encourage you to reach out to me via email at tylerbowerman@yahoo.com
-You can find this project at https://bowty14.github.io/your-portfolio/ }_
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/reidashwill/random-encounter-generator/issues) here on GitHub._
+
+_You can find this project at https://bowty14.github.io/your-portfolio/ }_
 
 ## Technologies Used
 
